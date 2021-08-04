@@ -8,6 +8,12 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
 + Polimorfismo
 
 
+O projeto contem a implementação de um Enum: Categoria. 
+Já que na aplicação são consideradas um número fixo de categorias: Back-end, Front-end, DataBase, Cloud.
+
+A classe JavaScript herda características da classe Tecnologia. 
+O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor super que adiciona um sufixo _JS nas tecnologias que são do tipo JavaScript.
+
 
 
 
