@@ -8,7 +8,7 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
   
   <div>
     A classe JavaScript herda características da classe Tecnologia. 
-    O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor super que adiciona um sufixo _JS nas tecnologias que são do tipo JavaScript.
+    O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor super que adiciona um sufixo _JS no nome das tecnologias que são do tipo JavaScript.
   </div>
   
 + Polimorfismo
