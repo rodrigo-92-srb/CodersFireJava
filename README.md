@@ -9,6 +9,7 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
  <div>
     A classe JavaScript herda características da classe Tecnologia. 
     O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor explícito recebendo como parâmetros nome e categoria e utiliza o super que     adiciona um sufixo _JS no nome das tecnologias que são do tipo JavaScript.
+
 </div>
   
 + Polimorfismo
@@ -25,7 +26,7 @@ Já que na aplicação são consideradas um número fixo de categorias: Back-end
 
 
 
-
+### Segue abaixo o meu LinkedIn:
 
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-silva-186702138">
