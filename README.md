@@ -7,6 +7,6 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
 + Herança
 + Polimorfismo
 
-![linkedin](https://user-images.githubusercontent.com/12913563/128239730-0672438f-ad47-4c9a-812a-7c86545335a2.png)
+![888065_logo_512x512](https://user-images.githubusercontent.com/12913563/128240137-73ef9611-8037-47b1-9b60-b81d330ea4fb.png)
 
 
