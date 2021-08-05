@@ -5,14 +5,30 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
 + Abstração
 + Encapsulamento
 + Herança
++ Polimorfismo
+
+### Abstração
+
+<div>
+    <p>A abstração é utlizada para simplificar os objetos de maneira que apenas suas características (atributos) e comportamentos (métodos) que são relevantes ao sistema são representados.</p>
+    <p> Na aplicação em questão temos o exemplo do Computador, um computador do mundo real tem várias características, mas apenas as características: possuir IDE, estar programando e o nome da IDE são relevantes ao sistema. </p>
+</div>
+
+### Encapsulamento
+<div>
+     <p>O encapsulamento foi utilizado na aplicação de forma que atributos por exemplo não podem ser acessados publicamente. </p>
+     <p>A classe Computador por exemplo: implementa a interface Ambiente recebendo todos os métodos abstratos da mesma. Sendo assim, não podemos acessar os métodos da interface Ambiente diretamente, apenas através da classe Computador. </p>
+</div>
+
+### Herança
  
  <div>
-    A classe JavaScript herda características da classe Tecnologia. 
-    O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor explícito recebendo como parâmetros nome e categoria e utiliza o super que     adiciona um sufixo _JS no nome das tecnologias que são do tipo JavaScript.
-
+    <p>A classe JavaScript herda características da classe Tecnologia.</p>
+    <p>O conceito de herança foi aplicado de forma que a classe filha JavaScript possui um construtor explícito recebendo como parâmetros nome e categoria e utiliza o super que     adiciona um sufixo _JS no nome das tecnologias que são do tipo JavaScript.</p>
+ 
 </div>
   
-+ Polimorfismo
+### Polimorfismo
 
 
 
