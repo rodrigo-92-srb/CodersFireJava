@@ -30,12 +30,16 @@ Aplicação criada em Java utilizando conceitos básicos de orientação a objet
   
 ### Polimorfismo
 
+<div>
+    <p>A utilização de polimorfismo foi implementada através das classes Tecnologia e JavaScript. Tecnologia possui várias formas, o método construtor por exemplo na classe JavaScript adiciona um sufixo _JS após o nome da Tecnologia.</p>
+</div>
 
-
-O projeto contem a implementação de um Enum: Categoria. 
-Já que na aplicação são consideradas um número fixo de categorias: Back-end, Front-end, DataBase, Cloud.
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------
+### Enum
+<div>
+    <p> O projeto contem a implementação de um Enum: Categoria. </p>
+    <p> Já que na aplicação são consideradas um número fixo de categorias: Back-end, Front-end, DataBase, Cloud.</p>
+</div>
 
 
 
